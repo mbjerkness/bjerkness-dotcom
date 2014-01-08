@@ -1,0 +1,23 @@
+.reveal code {
+	font-family: monospace;
+	font-size: 0.75em;
+	line-height: 1.2em;
+}
+.reveal pre code {
+	padding: 5px;
+	overflow: auto;
+	max-height: 600px;
+	word-wrap: normal;
+	font-size: 0.8em;
+}
+
+/*
+.reveal .slides>section {
+	left: -40%;
+	top: -40%;
+}
+*/
+
+.pleft {
+	text-align: left;
+}
